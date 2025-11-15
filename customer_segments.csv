@@ -1,4 +1,5 @@
 CustomerID,Recency,Frequency,Monetary,Cluster
+
 12346,325,1,1.04,1
 12347,1,7,2.644010989010989,0
 12348,74,4,5.764838709677419,0
