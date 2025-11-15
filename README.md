@@ -1,7 +1,7 @@
 # Customer Segmentation Project
 This project focuses on customer segmentation using transactional data from an online retail store. 
   
-### Using RFM Analysis + K-Means Clustering  
+### Using RFM Analysis + K-Means Clustering 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/sharmacharvi/customer-segmentation-project/blob/main/customer_segmentation.ipynb
 )
 
