@@ -106,6 +106,8 @@ The output can be used for:
 
 ![Cluster Plot](newplot.png)
 
+You can see how the customers are segmented in 3D space using Recency, Frequency, and Monetary features.  
+
 
 
 
