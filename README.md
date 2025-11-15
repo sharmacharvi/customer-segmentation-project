@@ -102,5 +102,9 @@ The output can be used for:
 - Customer retention strategies  
 - Behavioural analytics  
 
+## Cluster Visualization
+
+![Cluster Plot](images/newplot.png)
+
 
 
