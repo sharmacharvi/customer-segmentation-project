@@ -64,7 +64,18 @@ These fields help build customer profiles and measure purchasing behaviour.
 
 ### **7. Exporting Results**
 
-## Generated File: `customer_segments.csv`
+## Generated File (Final Output)
+
+**Download the final output:**  
+**[customer_segments.csv](customer_segments.csv)**
+
+This file contains:
+- CustomerID  
+- Recency  
+- Frequency  
+- Monetary  
+- Cluster  
+
 
 This CSV file contains the **final segmented customers** after performing  
 RFM analysis and K-Means clustering. It is the main output of the project.
