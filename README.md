@@ -104,7 +104,8 @@ The output can be used for:
 
 ## Cluster Visualization
 
-![Cluster Plot](images/newplot.png)
+![Cluster Plot](newplot.png)
+
 
 
 
